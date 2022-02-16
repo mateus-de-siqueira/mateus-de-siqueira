@@ -5,6 +5,9 @@
 - 💼 Web Developer;
 
 
+[Link Currículo](https://github.com/mateus-de-siqueira/mateusdesiqueira/blob/main/assets/Curr%C3%ADculo%20-%20Mateus%20de%20Siqueira.pdf)
+
+
 |<a href="https://github.com/mateus-de-siqueira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-de-siqueira&show_icons=true&include_all_commits=true&hide_border=true&hide=stars&bg_color=E5E5E5&title_color=CC2929&text_color=0D0D0D&icon_color=FF9999" alt="Mateus's github stats" /> </a>|<a href="https://github.com/mateus-de-siqueira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-de-siqueira&layout=compact&bg_color=E5E5E5&title_color=CC2929&text_color=0D0D0D&icon_color=FF9999&hide_border=true" /></a>|
 | ------------- | ------------- |
 
